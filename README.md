@@ -1,2 +1,2 @@
 # imapSample
-imap sample
+실행 파일 IMAPEmailSample
